@@ -14,8 +14,6 @@
         $age = 2;
         $gpa = 32.444;
         $truth = false;
-
-
     ?>
 
 </body>
