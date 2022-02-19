@@ -10,14 +10,7 @@
     
     <?php
 
-    $characterName = "John";
-    $characterAge = 13;
-
-    echo "There was once a man named $characterName <br>";
-    echo "He was $characterAge years old <br>";
-    echo "He really liked the name $characterName <br>";
-    echo "But didn't like being $characterAge <br>";
-
+    echo("Hello World");
 
     ?>
 
